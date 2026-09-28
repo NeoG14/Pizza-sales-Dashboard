@@ -1,7 +1,20 @@
 # Pizza sales Dashboard
 Análisis interactivo del volumen de ventas y rendimiento del menú de una pizzería para identificar patrones de comportamiento del consumidor, horarios pico y optimizar el inventario.
 
-<img width="1718" height="970" alt="{CA12DE69-9BFF-4FD0-A013-EAAB5505A7CB}" src="https://github.com/user-attachments/assets/fd05dc69-6c69-4357-8290-eeb2714d0138" />
+## Problemas de negocio
+- ¿Cuáles son los días y horarios con mayor volumen de pedidos?
+
+- ¿Qué tamaño y categoría de pizza generan más ingresos?
+
+- ¿Cuáles son las pizzas de mejor y peor rendimiento?
+
+## insights
+- Demanda: Los días con mayor cantidad de pedidos son los jueves y sábados. Los horarios pico se concentran entre las 12:00-13:00 y las 17:00-19:00.
+- Ventas por Categoría: La categoría Classic Y el tamaño Large aporta el máximo de ventas e ingresos.
+- Rendimiento de Producto: La Classic Deluxe y The Barbecue Chicken son las más vendidas, mientras que la Brie Carre tiene el peor rendimiento. 
+
+[Dashboard](\images\dashboard.png)
+
 
 
 ## Dataset
