@@ -16,6 +16,8 @@ Análisis interactivo del volumen de ventas y rendimiento del menú de una pizze
 ![Dashboard](images/Dashboard.png)
 
 
+[Abrir Dashboard Interactivo](https://onedrive.live.com/personal/4247D256138CE478/_layouts/15/Doc.aspx?sourcedoc=%7B12130b09-7fb2-4a29-839d-0b68ababf41f%7D&action=view)
+
 
 ## Dataset
 1. pizza_id: Identificador único para cada registro individual de pizza vendida.
