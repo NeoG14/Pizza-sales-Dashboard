@@ -8,7 +8,7 @@ Análisis interactivo del volumen de ventas y rendimiento del menú de una pizze
 
 - ¿Cuáles son las pizzas de mejor y peor rendimiento?
 
-## insights
+## Insights
 - Demanda: Los días con mayor cantidad de pedidos son los jueves y sábados. Los horarios pico se concentran entre las 12:00-13:00 y las 17:00-19:00.
 - Ventas por Categoría: La categoría Classic Y el tamaño Large aporta el máximo de ventas e ingresos.
 - Rendimiento de Producto: La Classic Deluxe y The Barbecue Chicken son las más vendidas, mientras que la Brie Carre tiene el peor rendimiento. 
