@@ -13,7 +13,7 @@ Análisis interactivo del volumen de ventas y rendimiento del menú de una pizze
 - Ventas por Categoría: La categoría Classic Y el tamaño Large aporta el máximo de ventas e ingresos.
 - Rendimiento de Producto: La Classic Deluxe y The Barbecue Chicken son las más vendidas, mientras que la Brie Carre tiene el peor rendimiento. 
 
-[Dashboard](\images\dashboard.png)
+[Dashboard](images/Dashboard.png)
 
 
 
