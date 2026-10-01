@@ -16,7 +16,8 @@ Análisis interactivo del volumen de ventas y rendimiento del menú de una pizze
 ![Dashboard](images/Dashboard.png)
 
 
-## [Abrir Dashboard Interactivo](https://onedrive.live.com/personal/4247D256138CE478/_layouts/15/Doc.aspx?sourcedoc=%7B12130b09-7fb2-4a29-839d-0b68ababf41f%7D&action=view)
+## [Abrir Dashboard Interactivo (requiere cuenta microsoft)](https://onedrive.live.com/personal/4247D256138CE478/_layouts/15/Doc.aspx?sourcedoc=%7B12130b09-7fb2-4a29-839d-0b68ababf41f%7D&action=view)
+## [Tambien puedes descargar el excel desde aquí](https://github.com/NeoG14/Pizza-sales-Dashboard/raw/333d34ca49b3e928ca481a91a20c1b691b86c416/Pizza_Dashboard.xlsx)
 
 
 ## Dataset
